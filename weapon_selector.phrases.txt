@@ -1,0 +1,306 @@
+"Phrases"
+{
+	// Основные сообщения
+	"Spawn_Menu_Info"
+	{
+		"en"		"Type !weapon to open weapon selection menu"
+		"ru"		"Введите !weapon чтобы открыть меню выбора оружия"
+		"ua"		"Введіть !weapon щоб відкрити меню вибору зброї"
+	}
+	"Spawn_Quick_Commands"
+	{
+		"en"		"Quick commands: !deagle, !r8, !usp, !p2000, !cz, !tec9, !m4a1s, !m4a4"
+		"ru"		"Быстрые команды: !deagle, !r8, !usp, !p2000, !cz, !tec9, !m4a1s, !m4a4"
+		"ua"		"Швидкі команди: !deagle, !r8, !usp, !p2000, !cz, !tec9, !m4a1s, !m4a4"
+	}
+	"Spawn_Language_Info"
+	{
+		"en"		"Type !lang to change language"
+		"ru"		"Введите !lang чтобы сменить язык"
+		"ua"		"Введіть !lang щоб змінити мову"
+	}
+	"Current_Preferences"
+	{
+		"en"		"Current preferences"
+		"ru"		"Текущие настройки"
+		"ua"		"Поточні налаштування"
+	}
+
+	// Языки
+	"Language_Selection"
+	{
+		"en"		"Language Selection"
+		"ru"		"Выбор языка"
+		"ua"		"Вибір мови"
+	}
+	"English"
+	{
+		"en"		"English"
+		"ru"		"Английский"
+		"ua"		"Англійська"
+	}
+	"Russian"
+	{
+		"en"		"Russian"
+		"ru"		"Русский"
+		"ua"		"Російська"
+	}
+	"Ukrainian"
+	{
+		"en"		"Ukrainian"
+		"ru"		"Украинский"
+		"ua"		"Українська"
+	}
+	"Current"
+	{
+		"en"		"(Current)"
+		"ru"		"(Текущий)"
+		"ua"		"(Поточний)"
+	}
+	"Language_Changed"
+	{
+		"en"		"Language changed successfully"
+		"ru"		"Язык успешно изменен"
+		"ua"		"Мову успішно змінено"
+	}
+	"Change_Language"
+	{
+		"en"		"Change Language"
+		"ru"		"Сменить язык"
+		"ua"		"Змінити мову"
+	}
+
+	// Названия оружия
+	"Desert_Eagle"
+	{
+		"en"		"Desert Eagle"
+		"ru"		"Desert Eagle"
+		"ua"		"Desert Eagle"
+	}
+	"R8_Revolver"
+	{
+		"en"		"R8 Revolver"
+		"ru"		"R8 Revolver"
+		"ua"		"R8 Revolver"
+	}
+	"USP_S"
+	{
+		"en"		"USP-S"
+		"ru"		"USP-S"
+		"ua"		"USP-S"
+	}
+	"P2000"
+	{
+		"en"		"P2000"
+		"ru"		"P2000"
+		"ua"		"P2000"
+	}
+	"Tec9_FiveSeven"
+	{
+		"en"		"Tec-9/Five-Seven"
+		"ru"		"Tec-9/Five-Seven"
+		"ua"		"Tec-9/Five-Seven"
+	}
+	"CZ75_Auto"
+	{
+		"en"		"CZ75-Auto"
+		"ru"		"CZ75-Auto"
+		"ua"		"CZ75-Auto"
+	}
+	"M4A4"
+	{
+		"en"		"M4A4"
+		"ru"		"M4A4"
+		"ua"		"M4A4"
+	}
+	"M4A1_S"
+	{
+		"en"		"M4A1-S"
+		"ru"		"M4A1-S"
+		"ua"		"M4A1-S"
+	}
+
+	// Категории оружия
+	"Heavy_Pistol"
+	{
+		"en"		"Heavy Pistol"
+		"ru"		"Тяжелый пистолет"
+		"ua"		"Важкий пістолет"
+	}
+	"CT_Pistol"
+	{
+		"en"		"CT Pistol"
+		"ru"		"Пистолет CT"
+		"ua"		"Пістолет CT"
+	}
+	"Auto_Pistol"
+	{
+		"en"		"Auto Pistol"
+		"ru"		"Автоматический пистолет"
+		"ua"		"Автоматичний пістолет"
+	}
+	"M4_Rifle"
+	{
+		"en"		"M4 Rifle"
+		"ru"		"Винтовка M4"
+		"ua"		"Гвинтівка M4"
+	}
+
+	// Заголовки меню
+	"Menu_Title"
+	{
+		"en"		"LEGION PUB - Weapon Selection"
+		"ru"		"LEGION PUB - Выбор оружия"
+		"ua"		"LEGION PUB - Вибір зброї"
+	}
+	"Heavy_Pistol_Selection"
+	{
+		"en"		"Heavy Pistol Selection"
+		"ru"		"Выбор тяжелого пистолета"
+		"ua"		"Вибір важкого пістолета"
+	}
+	"CT_Pistol_Selection"
+	{
+		"en"		"CT Pistol Selection"
+		"ru"		"Выбор пистолета CT"
+		"ua"		"Вибір пістолета CT"
+	}
+	"Auto_Pistol_Selection"
+	{
+		"en"		"Auto Pistol Selection"
+		"ru"		"Выбор автоматического пистолета"
+		"ua"		"Вибір автоматичного пістолета"
+	}
+	"M4_Rifle_Selection"
+	{
+		"en"		"M4 Rifle Selection"
+		"ru"		"Выбор винтовки M4"
+		"ua"		"Вибір гвинтівки M4"
+	}
+	"Quick_Select_Title"
+	{
+		"en"		"Quick Select All"
+		"ru"		"Быстрый выбор всех"
+		"ua"		"Швидкий вибір всіх"
+	}
+
+	// Текст в меню
+	"Choose_Heavy_Pistol"
+	{
+		"en"		"Choose your preferred heavy pistol"
+		"ru"		"Выберите предпочитаемый тяжелый пистолет"
+		"ua"		"Виберіть бажаний важкий пістолет"
+	}
+	"Choose_CT_Pistol"
+	{
+		"en"		"Choose your preferred CT pistol"
+		"ru"		"Выберите предпочитаемый пистолет CT"
+		"ua"		"Виберіть бажаний пістолет CT"
+	}
+	"Choose_Auto_Pistol"
+	{
+		"en"		"Choose your preferred auto pistol"
+		"ru"		"Выберите предпочитаемый автоматический пистолет"
+		"ua"		"Виберіть бажаний автоматичний пістолет"
+	}
+	"Choose_M4_Rifle"
+	{
+		"en"		"Choose your preferred M4 rifle"
+		"ru"		"Выберите предпочитаемую винтовку M4"
+		"ua"		"Виберіть бажану гвинтівку M4"
+	}
+	"Choose_Preset"
+	{
+		"en"		"Choose a preset for all weapons"
+		"ru"		"Выберите пресет для всего оружия"
+		"ua"		"Виберіть пресет для всієї зброї"
+	}
+	"Change_Heavy_Pistol"
+	{
+		"en"		"Change Heavy Pistol"
+		"ru"		"Изменить тяжелый пистолет"
+		"ua"		"Змінити важкий пістолет"
+	}
+	"Change_CT_Pistol"
+	{
+		"en"		"Change CT Pistol"
+		"ru"		"Изменить пистолет CT"
+		"ua"		"Змінити пістолет CT"
+	}
+	"Change_Auto_Pistol"
+	{
+		"en"		"Change Auto Pistol"
+		"ru"		"Изменить автоматический пистолет"
+		"ua"		"Змінити автоматичний пістолет"
+	}
+	"Change_M4_Rifle"
+	{
+		"en"		"Change M4 Rifle"
+		"ru"		"Изменить винтовку M4"
+		"ua"		"Змінити гвинтівку M4"
+	}
+	"Quick_Select_All"
+	{
+		"en"		"Quick Select All"
+		"ru"		"Быстрый выбор всех"
+		"ua"		"Швидкий вибір всіх"
+	}
+	"Back_To_Main"
+	{
+		"en"		"Back to Main Menu"
+		"ru"		"Назад в главное меню"
+		"ua"		"Назад до головного меню"
+	}
+	"Selected"
+	{
+		"en"		"Selected"
+		"ru"		"Выбрано"
+		"ua"		"Вибрано"
+	}
+	"Exit"
+	{
+		"en"		"Exit"
+		"ru"		"Выход"
+		"ua"		"Вихід"
+	}
+
+	// Сообщения об установке предпочтений
+	"Pref_Set_Heavy"
+	{
+		"en"		"Heavy pistol preference set to: \x0C%s"
+		"ru"		"Предпочтение тяжелого пистолета установлено на: \x0C%s"
+		"ua"		"Уподобання важкого пістолета встановлено на: \x0C%s"
+	}
+	"Pref_Set_CT"
+	{
+		"en"		"CT pistol preference set to: \x0C%s"
+		"ru"		"Предпочтение пистолета CT установлено на: \x0C%s"
+		"ua"		"Уподобання пістолета CT встановлено на: \x0C%s"
+	}
+	"Pref_Set_Auto"
+	{
+		"en"		"Auto pistol preference set to: \x0C%s"
+		"ru"		"Предпочтение автоматического пистолета установлено на: \x0C%s"
+		"ua"		"Уподобання автоматичного пістолета встановлено на: \x0C%s"
+	}
+	"Pref_Set_M4"
+	{
+		"en"		"M4 rifle preference set to: \x0C%s"
+		"ru"		"Предпочтение винтовки M4 установлено на: \x0C%s"
+		"ua"		"Уподобання гвинтівки M4 встановлено на: \x0C%s"
+	}
+	"All_Weapons_Set"
+	{
+		"en"		"All weapons set to: \x0C%s %d"
+		"ru"		"Всё оружие установлено на: \x0C%s %d"
+		"ua"		"Вся зброя встановлена на: \x0C%s %d"
+	}
+
+	// Пресеты
+	"Preset"
+	{
+		"en"		"Preset"
+		"ru"		"Пресет"
+		"ua"		"Пресет"
+	}
+}
